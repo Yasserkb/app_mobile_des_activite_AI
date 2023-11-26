@@ -17,33 +17,33 @@ Mais après la soumission, vous verrez un message qui confirme la transformation
 images of the app :
 
 ## Splash_screen:
-![splash](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/d7065ec2-4e38-473d-a4e3-64f0e4a5d70c)
+![splash](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/d7065ec2-4e38-473d-a4e3-64f0e4a5d70c){ width=300px height=200px }
 
 
 ## LogIn:
 
-![login](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/56e93c87-a059-4f39-8d42-223a3359fa20)
+![login](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/56e93c87-a059-4f39-8d42-223a3359fa20){ width=300px height=600px }
 
 
 ## HomePage:
 
-![home](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/73c37b37-f911-4d63-85d2-3265594d327b)
+![home](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/73c37b37-f911-4d63-85d2-3265594d327b){ width=300px height=600px }
 
 
 
   
 ## AddPage :
 
-![addpage](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/cf6ba3f4-dba5-4454-9ea6-7e85ece59e64)
+![addpage](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/cf6ba3f4-dba5-4454-9ea6-7e85ece59e64){ width=300px height=600px }
 
 
 ## the toast feature :
 
-![toast](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/fa5651aa-8008-4be1-97df-7237e5710df5)
+![toast](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/fa5651aa-8008-4be1-97df-7237e5710df5){ width=300px height=600px }
 
 
 
 ## DetailsPage :
 
-![details](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/4d84959e-a6b4-488a-b495-779e52952241)
+![details](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/4d84959e-a6b4-488a-b495-779e52952241){ width=300px height=600px }
 

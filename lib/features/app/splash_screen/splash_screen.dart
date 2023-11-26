@@ -42,36 +42,10 @@ class _SplashScreenState extends State<SplashScreen> {
                 fit: BoxFit.contain,
               ),
               SizedBox(height: 20), // Adjust spacing as needed
-              // Text(
-              //   "Welcome to Flutter Firebase",
-              //   style: TextStyle(
-              //     color: Colors.purpleAccent,
-              //     fontWeight: FontWeight.bold,
-              //     fontSize: 20,
-              //   ),
-              // ),
             ],
           ),
         ),
       ),
     );
   }
-
-
-
-
-  // Widget build(BuildContext context) {
-  //   return const Scaffold(
-  //     body: Center(
-  //       child: Text(
-  //         "Welcome to flutter firebase",
-  //         style: TextStyle(
-  //             color: Colors.purpleAccent,
-  //             fontWeight: FontWeight.bold),
-  //       ),
-  //     ),
-  //   );
-  // }
-
-
 }

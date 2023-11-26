@@ -36,14 +36,4 @@ class Activity {
     required this.numberOfPeople
   });
 
-  // factory Activity.fromFirestore(DocumentSnapshot doc) {
-  //   return Activity(
-  //     title: doc['titre'],
-  //     location: doc['lieu'],
-  //     price: doc['prix'],
-  //     image: doc['image'],
-  //     categorie: doc['catégorie'],
-  //     numberOfPeople: doc['nombredepersonne'],
-  //   );
-  // }
 }

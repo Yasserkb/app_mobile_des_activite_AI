@@ -55,12 +55,6 @@ class DetailsPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // Image.network(
-            //   activity.image,
-            //   height: 200,
-            //   width: double.infinity,
-            //   fit: BoxFit.cover,
-            // ),
             _buildImageWidget(activity.image),
             Text('Title: ${activity.title}'),
             Text('Location: ${activity.location}'),

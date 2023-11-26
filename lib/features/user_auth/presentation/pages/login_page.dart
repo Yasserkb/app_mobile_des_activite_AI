@@ -33,9 +33,7 @@ class LoginPage extends StatelessWidget {
         // If successful, navigate to the next screen or perform any desired action
 
         navigateToHomePage(context);
-        // For example:
-        // Navigator.pushReplacement(
-        //     context as BuildContext, MaterialPageRoute(builder: (context) => HomePage()));
+
 
       } catch (e) {
         // Handle errors and update the UI accordingly

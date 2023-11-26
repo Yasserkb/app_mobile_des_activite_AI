@@ -32,7 +32,8 @@ class _AddPageState extends State<AddPage> {
       String lieu,
       String prix,
       String nombreDePersonne,
-      Uint8List imageBytes) async {
+      Uint8List imageBytes)
+  async {
     try {
       // Convert the Uint8List imageBytes to a base64-encoded string
       String base64Image = base64Encode(imageBytes);
@@ -47,7 +48,6 @@ class _AddPageState extends State<AddPage> {
         'nombredepersonne': nombreDePersonne,
         'catégorie': _categorieController.text, // Use the controller value
         'image': base64Image, // Save the base64 encoded image
-        // Add other fields as needed
       });
 
       print(_categorieController.text);

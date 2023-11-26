@@ -36,14 +36,6 @@ class _HomePageState extends State<HomePage> {
         displayedActivities = activities; // Initially, display all activities
       });
 
-      // Print the fetched activities for debugging
-      // print('Fetched Activities:');
-      // for (var activity in activities) {
-      //   print('Title: ${activity.title}');
-      // }
-
-    // , Image: ${activity.image}
-
       return activities;
     } catch (error) {
       print('Error fetching data: $error');
@@ -51,33 +43,6 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
-
-
-
-  // Future<List<Activity>> fetchData() async {
-  //   try {
-  //     // Fetch activities from the "football" collection
-  //     List<Activity> footballActivities =
-  //     await FirestoreService.getActivitiesFromCollection('football');
-  //
-  //     // Fetch activities from the "équitation" collection
-  //     List<Activity> equitationActivities =
-  //     await FirestoreService.getActivitiesFromCollection('équitation');
-  //
-  //     // Combine the two lists and update the state
-  //     setState(() {
-  //       activities = [...footballActivities, ...equitationActivities];
-  //       displayedActivities = activities; // Initially, display all activities
-  //     });
-  //     print('tesssssssssssssstttttttttttttt');
-  //     print(activities);
-  //
-  //     return activities;
-  //   } catch (error) {
-  //     print('Error fetching data: $error');
-  //     return [];
-  //   }
-  // }
 
 
   void filterActivitiesByCategory(String category) {

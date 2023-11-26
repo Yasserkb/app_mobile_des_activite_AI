@@ -22,7 +22,7 @@ images of the app :
 
 ## LogIn:
 
-![login](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/56e93c87-a059-4f39-8d42-223a3359fa20 | width=300px | height=600px)
+![login](https://github.com/Yasserkb/app_mobile_des_activite_AI/assets/61334314/56e93c87-a059-4f39-8d42-223a3359fa20)
 
 
 ## HomePage:

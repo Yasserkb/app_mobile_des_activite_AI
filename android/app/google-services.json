@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401646790851",
+    "project_id": "iaapp-eebe3",
+    "storage_bucket": "iaapp-eebe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401646790851:android:52cc72b8436f7958315a76",
+        "android_client_info": {
+          "package_name": "com.example.mobile_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjKUJN1Ii15pFNOj5-e29bVFUYKoekDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
